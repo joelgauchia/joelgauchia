@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @joelgauchia
-- 👀 I’m interested in muffin
-- 🌱 I’m currently learning muffin
-- 💞️ I’m looking to collaborate on muffin
-- 📫 How to reach me: U can't. I do be shleepin
+- 👀 My stack:
+       - MK-677
+       - RAD-140
+       - LGD-4033
 
 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
 <!---

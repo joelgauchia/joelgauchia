@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Joel 👨‍💻</h1>
 
-# <h2>😄 About Me:</h2>
+<h2>😄 About Me</h2>
 👨🏻‍🎓 Software Engineer graduate<br>📚 Currently mastering my skills as a Full-Stack developer<br>💼 Angular | Java | Spring | SQL<br>🦾 Responsible and hardworking individual<br><br>📆 Last update: 08/09/2024
 
-## <h2> Let's Connect..! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
+# <h2> 🤝 Let's Connect! </h2>
   <br>
 <div align='left'>
 <ul>
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-   <br>
+</ul>
 <!--
 <li>
 <a href="https://drive.google.com/file/d/1A4EKtOlDkg5bmNnCKI9L9Kp3TxZIdOPc/view" target="_blank">
@@ -28,7 +28,7 @@
 </li>
 -->
 
-# <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack: </h2>
+# <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack </h2>
 
 | | |
 |----------|--------|
@@ -43,7 +43,7 @@
 | **Otros** | ![Microservices](https://img.shields.io/badge/Microservices-FFCA28?style=for-the-badge&logo=microservices&logoColor=black) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20APIs-005f69?style=for-the-badge&logo=api&logoColor=white)|
 | | |
 
-# <h2>👁‍🗨 Projects: </h2>
+# <h2>👁‍🗨 Projects </h2>
 <table>
 <tr>
 <td width="50%">
@@ -53,7 +53,7 @@
 <p>
   <br>
 <a href="https://github.com/joelgauchia/ConnectaGym" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-478be6?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p><strong>ConnectaGym</strong> is a gym management software designed for owners of gyms and gym chains. It provides a centralized platform where owners can manage members, subscriptions, payments, and billing across all their gyms from a single device. Additionally, it allows owners to create accounts for their staff, enabling them to send messages to members and monitor visits to the facilities. The project is structured with a front-end built using <strong>Angular 17</strong> and a back-end that consists of a <strong>REST API</strong> developed with <strong>Java 17</strong> and <strong>Spring Boot 3.2.3</strong>. <strong>MySQL</strong> is used for data storage.</p>
